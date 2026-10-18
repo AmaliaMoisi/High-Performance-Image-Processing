@@ -1,0 +1,81 @@
+[2026-02-12 23:48:04] [SERVER] [TID: 140244915554112] [INFO] Server listening on port 8080 with SIMD and Memory Pool..
+[2026-02-12 23:48:43] [CLIENT_3] [TID: 125432449202048] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_3] [TID: 125432449202048] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_1] [TID: 124431959738240] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_1] [TID: 124431959738240] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_7] [TID: 124199921870720] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_7] [TID: 124199921870720] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_2] [TID: 124922953926528] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_2] [TID: 124922953926528] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_10] [TID: 139868208314240] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_10] [TID: 139868208314240] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_4] [TID: 123215815055232] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_4] [TID: 123215815055232] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_8] [TID: 133904321906560] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_8] [TID: 133904321906560] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_9] [TID: 138926474176384] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_9] [TID: 138926474176384] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_5] [TID: 139182903781248] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_5] [TID: 139182903781248] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_6] [TID: 124244793403264] [INFO] Original image: 512x512
+[2026-02-12 23:48:43] [CLIENT_6] [TID: 124244793403264] [INFO] Resizing the image to 512x512..
+[2026-02-12 23:48:43] [CLIENT_10] [TID: 139868208314240] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244913444544] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:43] [CLIENT_8] [TID: 133904321906560] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [CLIENT_1] [TID: 124431959738240] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244896659136] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [SERVER] [TID: 140244905051840] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:43] [CLIENT_3] [TID: 125432449202048] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244888266432] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [CLIENT_7] [TID: 124199921870720] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244879873728] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [CLIENT_5] [TID: 139182903781248] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244871481024] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [CLIENT_9] [TID: 138926474176384] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [CLIENT_6] [TID: 124244793403264] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [CLIENT_4] [TID: 123215815055232] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244863088320] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [SERVER] [TID: 140244854695616] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [SERVER] [TID: 140244372420288] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:43] [CLIENT_2] [TID: 124922953926528] [INFO] Sending 1048576 bytes to the server..
+[2026-02-12 23:48:43] [SERVER] [TID: 140244364027584] [INFO] Pool full. Waiting for a slot...
+[2026-02-12 23:48:46] [SERVER] [TID: 140244913444544] [INFO] Processed image for client on socket 4 (Assigned ID: 1)
+[2026-02-12 23:48:46] [CLIENT_10] [TID: 139868208314240] [INFO] Received processed image back from server.
+[2026-02-12 23:48:46] [SERVER] [TID: 140244905051840] [INFO] Processed image for client on socket 6 (Assigned ID: 2)
+[2026-02-12 23:48:46] [CLIENT_8] [TID: 133904321906560] [INFO] Received processed image back from server.
+[2026-02-12 23:48:46] [SERVER] [TID: 140244896659136] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:46] [SERVER] [TID: 140244888266432] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:46] [CLIENT_10] [TID: 139868208314240] [INFO] Saved output as 'output/output_1.png'
+[2026-02-12 23:48:46] [CLIENT_8] [TID: 133904321906560] [INFO] Saved output as 'output/output_2.png'
+[2026-02-12 23:48:49] [SERVER] [TID: 140244896659136] [INFO] Processed image for client on socket 7 (Assigned ID: 3)
+[2026-02-12 23:48:49] [CLIENT_1] [TID: 124431959738240] [INFO] Received processed image back from server.
+[2026-02-12 23:48:49] [SERVER] [TID: 140244888266432] [INFO] Processed image for client on socket 8 (Assigned ID: 4)
+[2026-02-12 23:48:49] [SERVER] [TID: 140244879873728] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:49] [CLIENT_3] [TID: 125432449202048] [INFO] Received processed image back from server.
+[2026-02-12 23:48:49] [SERVER] [TID: 140244871481024] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:49] [CLIENT_1] [TID: 124431959738240] [INFO] Saved output as 'output/output_3.png'
+[2026-02-12 23:48:49] [CLIENT_3] [TID: 125432449202048] [INFO] Saved output as 'output/output_4.png'
+[2026-02-12 23:48:52] [SERVER] [TID: 140244879873728] [INFO] Processed image for client on socket 9 (Assigned ID: 5)
+[2026-02-12 23:48:52] [CLIENT_7] [TID: 124199921870720] [INFO] Received processed image back from server.
+[2026-02-12 23:48:52] [SERVER] [TID: 140244871481024] [INFO] Processed image for client on socket 10 (Assigned ID: 6)
+[2026-02-12 23:48:52] [CLIENT_5] [TID: 139182903781248] [INFO] Received processed image back from server.
+[2026-02-12 23:48:52] [SERVER] [TID: 140244863088320] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:52] [SERVER] [TID: 140244854695616] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:52] [CLIENT_7] [TID: 124199921870720] [INFO] Saved output as 'output/output_5.png'
+[2026-02-12 23:48:52] [CLIENT_5] [TID: 139182903781248] [INFO] Saved output as 'output/output_6.png'
+[2026-02-12 23:48:55] [SERVER] [TID: 140244863088320] [INFO] Processed image for client on socket 11 (Assigned ID: 7)
+[2026-02-12 23:48:55] [SERVER] [TID: 140244854695616] [INFO] Processed image for client on socket 12 (Assigned ID: 8)
+[2026-02-12 23:48:55] [CLIENT_9] [TID: 138926474176384] [INFO] Received processed image back from server.
+[2026-02-12 23:48:55] [CLIENT_6] [TID: 124244793403264] [INFO] Received processed image back from server.
+[2026-02-12 23:48:55] [SERVER] [TID: 140244364027584] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:55] [SERVER] [TID: 140244372420288] [INFO] Simulating heavy processing (Wait in the queue for 3s)...
+[2026-02-12 23:48:55] [CLIENT_6] [TID: 124244793403264] [INFO] Saved output as 'output/output_8.png'
+[2026-02-12 23:48:55] [CLIENT_9] [TID: 138926474176384] [INFO] Saved output as 'output/output_7.png'
+[2026-02-12 23:48:58] [SERVER] [TID: 140244364027584] [INFO] Processed image for client on socket 14 (Assigned ID: 9)
+[2026-02-12 23:48:58] [CLIENT_2] [TID: 124922953926528] [INFO] Received processed image back from server.
+[2026-02-12 23:48:58] [SERVER] [TID: 140244372420288] [INFO] Processed image for client on socket 13 (Assigned ID: 10)
+[2026-02-12 23:48:58] [CLIENT_4] [TID: 123215815055232] [INFO] Received processed image back from server.
+[2026-02-12 23:48:58] [CLIENT_2] [TID: 124922953926528] [INFO] Saved output as 'output/output_9.png'
+[2026-02-12 23:48:58] [CLIENT_4] [TID: 123215815055232] [INFO] Saved output as 'output/output_10.png'
+[2026-02-12 23:49:06] [SERVER] [TID: 140244915554112] [INFO] Shutdown signal received. Stopping server...
+[2026-02-12 23:49:06] [SERVER] [TID: 140244915554112] [INFO] Server shutdown complete.
